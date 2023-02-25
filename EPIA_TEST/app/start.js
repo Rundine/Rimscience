@@ -222,7 +222,7 @@ function start_js() {
         });
         
 
-        viewInfo("EPIA(VETPIA) TEST 1.1.0");
+        viewInfo("EPIA(VETPIA) TEST 1.2.0");
        // viewTest("EPIA(VETPIA) TEST", 
        // "EPIA(VETPIA) TEST <br>" );
 /*
